@@ -1,3 +1,4 @@
 "# example2" 
-![My Dashboard](PwerBI/images/pic1.png)
+![My Dashboard](PowerBI/images/pic1.png)
+
 
